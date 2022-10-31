@@ -1,0 +1,12 @@
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\bin\Debug\net6.0\Ejercicio.Prueba.Domain.deps.json
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\bin\Debug\net6.0\Ejercicio.Prueba.Domain.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\bin\Debug\net6.0\Ejercicio.Prueba.Domain.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\Ejercicio.Prueba.Domain.csproj.AssemblyReference.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\Ejercicio.Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\Ejercicio.Prueba.Domain.AssemblyInfoInputs.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\Ejercicio.Prueba.Domain.AssemblyInfo.cs
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\Ejercicio.Prueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\Ejercicio.Prueba.Domain.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\refint\Ejercicio.Prueba.Domain.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\Ejercicio.Prueba.Domain.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Domain\obj\Debug\net6.0\ref\Ejercicio.Prueba.Domain.dll

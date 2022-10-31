@@ -1,0 +1,15 @@
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\bin\Debug\net6.0\Ejercicio.Prueba.Application.deps.json
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\bin\Debug\net6.0\Ejercicio.Prueba.Application.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\bin\Debug\net6.0\Ejercicio.Prueba.Application.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\bin\Debug\net6.0\Ejercicio.Prueba.Domain.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\bin\Debug\net6.0\Ejercicio.Prueba.Domain.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\Ejercicio.Prueba.Application.csproj.AssemblyReference.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\Ejercicio.Prueba.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\Ejercicio.Prueba.Application.AssemblyInfoInputs.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\Ejercicio.Prueba.Application.AssemblyInfo.cs
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\Ejercicio.Prueba.Application.csproj.CoreCompileInputs.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\Ejercicio.Prueba.Application.csproj.CopyComplete
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\Ejercicio.Prueba.Application.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\refint\Ejercicio.Prueba.Application.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\Ejercicio.Prueba.Application.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Application\obj\Debug\net6.0\ref\Ejercicio.Prueba.Application.dll

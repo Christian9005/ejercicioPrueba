@@ -1,0 +1,17 @@
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\bin\Debug\net6.0\Ejercicio.Prueba.Infraestructure.deps.json
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\bin\Debug\net6.0\Ejercicio.Prueba.Infraestructure.runtimeconfig.json
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\bin\Debug\net6.0\Ejercicio.Prueba.Infraestructure.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\bin\Debug\net6.0\Ejercicio.Prueba.Infraestructure.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\bin\Debug\net6.0\Ejercicio.Prueba.Domain.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\bin\Debug\net6.0\Ejercicio.Prueba.Domain.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.AssemblyInfo.cs
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.csproj.CopyComplete
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\refint\Ejercicio.Prueba.Infraestructure.dll
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.pdb
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\Ejercicio.Prueba.Infraestructure.genruntimeconfig.cache
+C:\Users\Over\Desktop\proga\c#\cursoC#\EjercicioPrueba\src\Ejercicio.Prueba.Infraestructure\obj\Debug\net6.0\ref\Ejercicio.Prueba.Infraestructure.dll
